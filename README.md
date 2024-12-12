@@ -7,6 +7,7 @@ Install ggcat. You can find if at
 '
 https://github.com/algbio/ggcat
 '
+(If by any chanche it does not work, please use 'https://github.com/pmelsted/bifrost'.)
 
 Read the documentation and then try to build a cdbg of 1 and 2 genomes. Which 'k' could you use?
 
